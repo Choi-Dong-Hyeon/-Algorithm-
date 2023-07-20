@@ -1,4 +1,6 @@
-﻿namespace AverageAlgorithm
+﻿using System;
+
+namespace AverageAlgorithm
 {
     internal class Program
     {
@@ -6,7 +8,7 @@
         {
             //80점 이상 95점 이하인 점수의 평균
 
-            int[] data = { 90, 65, 78, 50, 95 };
+            int[] data = { 90, 65, 78, 50, 95, 92 };
             int sum = default;
             int count = default;
 
@@ -19,7 +21,7 @@
                 }
             }
 
-            System.Console.WriteLine(sum/count);
+            System.Console.WriteLine(sum / Convert.ToDouble(count));
         }
     }
 }
