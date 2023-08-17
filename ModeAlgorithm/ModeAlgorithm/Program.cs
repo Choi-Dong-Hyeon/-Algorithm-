@@ -9,7 +9,7 @@ namespace ModeAlgorithm
             //최빈값 알고리즘
             //주어진 데이터에서 가장 많이 나온(중복된) 데이터값 찾기
 
-            int[] score = { 1, 3, 4, 3, 5 };
+            int[] score = { 1, 3, 2, 3, 5 };
             int[] indexes = new int[5 + 1];
             int max = int.MinValue;
             int mode = 0;
