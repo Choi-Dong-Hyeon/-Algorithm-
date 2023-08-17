@@ -12,7 +12,7 @@ class Program
         Console.CursorVisible = false;
 
         const int WAIT_TICK = 10000 / 30;
-        int lastTick = 0; 
+        int lastTick = 0;
 
         while (true)
         {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeMap", "..\..\..\..\..\DotNetNote\RookissMap\BinaryTreeMap\BinaryTreeMap.csproj", "{239B13BB-B6A6-4FBE-B78C-EC6A5F131939}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeMap", "BinaryTreeMap\BinaryTreeMap.csproj", "{D6E7B225-1B93-4DED-8DF9-E6C5802277C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{239B13BB-B6A6-4FBE-B78C-EC6A5F131939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{239B13BB-B6A6-4FBE-B78C-EC6A5F131939}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{239B13BB-B6A6-4FBE-B78C-EC6A5F131939}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{239B13BB-B6A6-4FBE-B78C-EC6A5F131939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E7B225-1B93-4DED-8DF9-E6C5802277C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E7B225-1B93-4DED-8DF9-E6C5802277C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E7B225-1B93-4DED-8DF9-E6C5802277C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E7B225-1B93-4DED-8DF9-E6C5802277C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1101FC78-2E41-419B-9EF4-BB37B5835724}
+		SolutionGuid = {316E102C-6164-46E2-A454-D43B8A9F6F81}
 	EndGlobalSection
 EndGlobal
