@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeMap", "RookissMap\BinaryTreeMap.csproj", "{239B13BB-B6A6-4FBE-B78C-EC6A5F131939}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeMap", "..\..\..\..\..\DotNetNote\RookissMap\BinaryTreeMap\BinaryTreeMap.csproj", "{239B13BB-B6A6-4FBE-B78C-EC6A5F131939}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8AE840AE-AA5E-452D-A050-439ACF60D2E7}
+		SolutionGuid = {1101FC78-2E41-419B-9EF4-BB37B5835724}
 	EndGlobalSection
 EndGlobal
