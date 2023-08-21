@@ -16,6 +16,12 @@ class Program
 
         while (true)
         {
+            #region 프레임관리
+            int currentTick = System.Environment.TickCount;
+            if (currentTick - lastTick < WAIT_TICK)
+                continue;
+            lastTick = currentTick;
+            #endregion
 
             Console.SetCursorPosition(0, 0);
             board.Render();
